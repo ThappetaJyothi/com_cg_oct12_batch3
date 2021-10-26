@@ -11,7 +11,7 @@ public class Employee {
 
 	private int eid;
 	private String firstName;
-	private double salary = 8000; // read-only field
+	private double salary = 8000; // read-only field 
      
 	public Employee() {
 		super();
