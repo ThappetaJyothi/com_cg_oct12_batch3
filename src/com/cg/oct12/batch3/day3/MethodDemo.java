@@ -10,7 +10,7 @@ public class MethodDemo {
 		hello();
 		MethodDemo m=new MethodDemo();
 		m.hi();
-		System.out.println("END");
+		System.out.println("END");    
 
 	}
 	  static void hello()
